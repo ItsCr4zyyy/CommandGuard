@@ -5,7 +5,6 @@ This plugin hides unauthorized commands from the player's tab-completion (when t
 ## ✅ Features
 * Perfectly clean tab-completion (no `/bukkit:?`, `/pl`, or admin commands).
 * Smart tab-completion for `/msg` (only suggests online players).
-* No server restart required when changing settings.
 
 ## 🛠 Requirements
 

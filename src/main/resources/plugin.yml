@@ -1,0 +1,9 @@
+name: CommandGuard
+main: org.wcrazy.CommandGuard
+version: 1.0.0
+api-version: 1.21
+authors: [wCrazy_]
+commands:
+  cgreload:
+    description: Reloads the CommandGuard configuration.
+    usage: /cgreload

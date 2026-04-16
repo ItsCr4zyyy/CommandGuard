@@ -1,0 +1,10 @@
+no-permission: "&7[&#1A3F7BCommandGuard&7] &cYou do not have permission to execute this command."
+
+# If you want to see nothing when you type /, set allowed-commands: []
+allowed-commands:
+  - help
+  - msg
+  - spawn
+
+# Permission for bypass is "commandguard.bypass"
+bypass-if-permission: true
